@@ -1,0 +1,4 @@
+1-add the elements which would go next to stack 
+2-we want fifo structure bcz lifo will produce DFS
+3-in DFS we Search till deadend while in BFS we will go layer by layer
+4-to stop repetions
